@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar site e agora gerenciar repositórios
 
-<a href="https://github.com/DavidIziCV/html-css/tree/main/exercicios/ex021desafio/desafio"> Executar o desafio 10 </a>
+<a href="https://github.com/DavidIziCV/html-css/exercicios/ex001.index.html"> Executar o exercicio 001 </a>
